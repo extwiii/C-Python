@@ -6,6 +6,7 @@ Coursera Python Codes
 * Tracks
 * BeautifulSoup
 * Db Count email
+* Follow Link
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
 
