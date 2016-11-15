@@ -10,6 +10,7 @@ Coursera Python Codes
 * Geo JSON
 * My Socket
 * Parse HTML
+* Parse JSON
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
 
