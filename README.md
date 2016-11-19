@@ -12,6 +12,7 @@ Coursera Python Codes
 * Parse HTML
 * Parse JSON
 * Parse XML
+* Regex
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
 
